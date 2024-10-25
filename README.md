@@ -5,7 +5,7 @@ In this file you will have many tools for ethical hackers. Tools used for hackin
 Here are some tools and their efficient and practical uses:
 
 * Socket and Whois > Used to pull data from domains, how to IP, DNS, Domains Name, Email...
-* 
+* More Tools is been creat...
 
 
 

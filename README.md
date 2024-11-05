@@ -1,15 +1,8 @@
 # Python-Hacking-
-Hacking using Python 
+Hacking usando Python. 
 
-In this file you will have many tools for ethical hackers. Tools used for hacking and other Pentesting needs.
-Here are some tools and their efficient and practical uses:
+Este arquivo fornece várias ferramentas para hackers éticos, utilizadas em atividades de segurança e pentest.
 
-* Socket and Whois > Used to pull data from domains, how to IP, DNS, Domains Name, Email...
-* More Tools is been creat...
+Socket e Whois > Servem para obter informações de domínios, como IPs, DNS, nomes de domínio e dados de contato. São usados no reconhecimento inicial para entender melhor a infraestrutura de um alvo.
 
-
-
-
-
-
-Remember, knowledge is not a crime, but use it wisely.
+Enumeração de DNS > Técnica para identificar subdomínios, registros de DNS e outras configurações de um domínio. A enumeração de DNS revela detalhes sobre a rede, como servidores de e-mail, registros de texto e serviços ocultos, ajudando a mapear a infraestrutura de rede e possíveis pontos de entrada.

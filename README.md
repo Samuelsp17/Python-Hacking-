@@ -15,4 +15,4 @@ Aqui você encontrará ferramentas para atividades de segurança e pentest. As f
 ## Como Usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/Python-Hacking.git
+   git clone https://github.com/Samuelsp17/Python-Hacking-

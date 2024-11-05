@@ -1,8 +1,18 @@
-# Python-Hacking-
-Hacking usando Python. 
+# Python-Hacking 🐍💻
+Ferramentas de hacking e pentest usando Python. Este repositório contém scripts úteis para hackers éticos e profissionais de segurança.
 
-Este arquivo fornece várias ferramentas para hackers éticos, utilizadas em atividades de segurança e pentest.
+## Descrição
+Aqui você encontrará ferramentas para atividades de segurança e pentest. As ferramentas servem para coletar informações de domínios, realizar varreduras e mapear redes e infraestruturas de maneira prática e eficiente.
 
-Socket e Whois > Servem para obter informações de domínios, como IPs, DNS, nomes de domínio e dados de contato. São usados no reconhecimento inicial para entender melhor a infraestrutura de um alvo.
+## Funcionalidades
+- **Consulta de Domínios**: Obtenha informações básicas sobre IPs, DNS e detalhes de contato de domínios.
+- **Enumeração de DNS**: Identifique subdomínios, registros e outros dados úteis para mapear a infraestrutura de rede.
 
-Enumeração de DNS > Técnica para identificar subdomínios, registros de DNS e outras configurações de um domínio. A enumeração de DNS revela detalhes sobre a rede, como servidores de e-mail, registros de texto e serviços ocultos, ajudando a mapear a infraestrutura de rede e possíveis pontos de entrada.
+> ⚠️ **Aviso**: Este repositório é destinado a fins educativos e profissionais. Use o conhecimento com responsabilidade e ética.
+
+---
+
+## Como Usar
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seuusuario/Python-Hacking.git

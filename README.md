@@ -7,6 +7,7 @@ Aqui você encontrará ferramentas para atividades de segurança e pentest. As f
 ## Funcionalidades
 - **Consulta de Domínios**: Obtenha informações básicas sobre IPs, DNS e detalhes de contato de domínios.
 - **Enumeração de DNS**: Identifique subdomínios, registros e outros dados úteis para mapear a infraestrutura de rede.
+- **Enumeração de Repositório**: Indentifique repositórios para ainda mapear infraestrutura de rede.
 
 > ⚠️ **Aviso**: Este repositório é destinado a fins educativos e profissionais. Use o conhecimento com responsabilidade e ética.
 
